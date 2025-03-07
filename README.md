@@ -3,8 +3,7 @@ Developed an iOS app designed to leverage the Action button on iOS devices for q
 
 - Implemented features such as note creation, editing, prioritization, and automatic organization using SwiftData.
 
-- Built a dynamic interface using SwiftUI and NavigationLink for smooth navigation between tasks, calendar views, and detail
-views
+- Built a dynamic interface using SwiftUI and NavigationLink for smooth navigation between tasks, calendar views, and detail views.
 
 ![Simulator Screenshot - iPhone 16 Pro - 2025-01-08 at 16 48 34](https://github.com/user-attachments/assets/30cc131e-1446-4952-bd57-e5624df49891)![Simulator Screenshot - iPhone 16 Pro - 2025-01-08 at 16 48 49](https://github.com/user-attachments/assets/4693508a-51cf-42a2-9ddd-e4d9854f2f9c)
 
